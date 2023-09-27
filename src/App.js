@@ -1,5 +1,7 @@
 
 import Diena from './Diena';
+
+
 function App() {
 return(
   <>
@@ -7,10 +9,7 @@ return(
   <Diena 
   diena="pirmdiena"
   datums="25.09"
-  pirmast="Krievu valoda"
-  otrast="Sociālās zinības un vēsture"
-  tresast="Sistēmu programmēšana"
-  ceturtast="Sistēmu programmēšana"
+  
   pirmaklase="C.201-D.Tarasova"
   otraklase="C.206-I.Eglīte"
   tresaklase="C.203-J.Krīgerts"
